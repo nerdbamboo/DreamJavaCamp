@@ -1,3 +1,4 @@
+package icehs.scince.chapter03;
 
 public class DataTypeHelpEx {
 	public static void main(String[] args) {
