@@ -8,6 +8,9 @@ public class BuildingTest {
 		Building myBuilding = new Building();
 		Chocolate myChoco = new Chocolate();
 		
+		myBuilding.name = "Ã»¿Í´ë";
+		System.out.println(myBuilding.name);
+		
 
 	}
 
