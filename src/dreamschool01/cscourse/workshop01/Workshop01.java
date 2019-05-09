@@ -1,0 +1,14 @@
+package dreamschool01.cscourse.workshop01;
+
+//문제 1.
+//본인의 주민등록번호를 정수형 변수에 선언하고, 이를 화면에 출력하시오.
+public class Workshop01 {
+ 
+ public static void main( String[] args ) {
+     int f_jumin = 110100;
+     int s_jumin = 3483459;
+     
+     System.out.println("주민등록번호 : "  + f_jumin + "-" + s_jumin);
+     
+ }
+}
