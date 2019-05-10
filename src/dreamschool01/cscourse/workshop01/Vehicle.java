@@ -1,6 +1,6 @@
 package dreamschool01.cscourse.workshop01;
 
-public class Vehicle {
+public  class Vehicle {
 	
 	private String modelName;
 	private int maxSpeed;

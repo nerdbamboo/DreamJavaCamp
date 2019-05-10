@@ -1,6 +1,6 @@
 package dreamschool01.cscourse.workshop01;
 
-import ws3.java2.entity.*;
+
 
 public class VehicleManager {
 	
